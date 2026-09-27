@@ -1,0 +1,4 @@
+# Scripts de Windows com CRLF, script Unix com LF
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+mvnw text eol=lf
